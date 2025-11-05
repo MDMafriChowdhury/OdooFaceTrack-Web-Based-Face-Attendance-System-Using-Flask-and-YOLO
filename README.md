@@ -102,3 +102,5 @@ Flask – Web framework for backend logic
 - HTML5 / JavaScript – Frontend interface
 
 - pyOpenSSL – Enables HTTPS for browser camera access
+
+- Realtime face training
