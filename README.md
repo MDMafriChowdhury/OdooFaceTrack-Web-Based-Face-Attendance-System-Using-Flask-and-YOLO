@@ -34,6 +34,7 @@ Download the Haar Cascade file required for face detection.
 Face_Attendance_App/
 │
 ├── app.py                                # Main Flask server (run this file)
+├── run_server.py 
 │
 ├── haarcascade_frontalface_default.xml   # OpenCV face detection model
 │
@@ -52,7 +53,7 @@ Face_Attendance_App/
 
 ## Usage
 ```bash
-python app.py
+python run_server.py
 ```
 After starting, the terminal will show a message similar to:
 ```pgsql
