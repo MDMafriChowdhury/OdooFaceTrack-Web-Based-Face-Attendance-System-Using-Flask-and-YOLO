@@ -35,13 +35,11 @@ Face_Attendance_App/
 │
 ├── app.py                                # Main Flask server (run this file)
 ├── run_server.py 
-│l
 │
 ├── templates/                            # Flask templates folder
 │   ├── index.html                        # Main attendance page
 │   └── train.html                        # User training page
-│   └── reports.html                      # Admin attendence reports page
-│                            
+│   └── reports.html                      # Admin attendence reports page                       
 
 
 ```
